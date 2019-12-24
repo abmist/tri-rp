@@ -1,0 +1,3 @@
+[submodule "sub-rp"]
+	path = sub-rp
+	url = https://github.com/abmist/sub-rp.git
